@@ -1,0 +1,14 @@
+---
+title: "Hello Rmarkdown from github actions"
+output:
+  html_document:
+    theme: united
+---
+
+---
+
+### R version:
+
+```{r, echo=FALSE}
+version
+```
